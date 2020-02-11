@@ -9,7 +9,6 @@ When the fragment is visible and the user selects "Close Feedback," the fragment
 *App was created as Fragments demo for my students.*
 
 Concepts:
-- Statically adding Fragments
 - Dynamically adding Fragments
 - FragmentManager
 - FragmentTransactions 
@@ -18,3 +17,7 @@ Concepts:
 - Retrieving arguments within the Fragment
 - Fragment to Activity communication via an interface
 - Activity to Fragment communication via public methods
+
+![Screenshot of app](https://github.com/alj968/FragmentsWithArticleLikeDislikeDemo/blob/master/1.png "Initial View")
+![Screenshot of app](https://github.com/alj968/FragmentsWithArticleLikeDislikeDemo/blob/master/2.png "After selecting disliked article")
+![Screenshot of app](https://github.com/alj968/FragmentsWithArticleLikeDislikeDemo/blob/master/3.png "After specifying dislike for the article")
