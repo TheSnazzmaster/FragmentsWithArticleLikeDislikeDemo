@@ -1,5 +1,5 @@
 package com.honorsmobileapps.amandajones.fragmentswitharticlelikedislikedemo;
-
+import java.beans.*;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
